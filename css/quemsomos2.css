@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;700&family=Poppins:ital,wght@0,400;1,500&display=swap');
+
+
+   
+body{
+    background: #614f37;
+}
+
+.container-quemsomos {
+    text-align: center;
+}
+
+.container-quemsomos strong{
+    font-size: 50px;
+    color: #4C0013;
+    margin: 20px 0;
+    font-family: fantasy;
+}   
+
+
+.container-quemsomos .visualizacao {
+    background: #4C0013; 
+
+    display: flex;
+    justify-content: space-evenly;
+
+    padding: 50px 0;
+
+    text-align: left;
+
+    width: 100%;
+    
+    margin: 30px auto 30px;
+
+    
+}
+
+.container-quemsomos .visualizacao .card-img-top-quem {
+    width: 40%;
+}
+
+.container-quemsomos .visualizacao h2 {
+    font-size: 22px;
+    line-height: 2.5;
+}
+/* .container-quemsomos{
+    display:flex;
+    justify-content: space-between;
+} */
+.roda{
+    margin-right: 27%;
+    float: left;
+    
+
+}
+.roda1{
+    margin-right: 13%;
+   
+}
+.rodape{
+    color: aliceblue;
+}
+.rodape2{
+    color: aliceblue;
+}
+
+.final{
+    background-color: #4C0013;
+    width: 100%;
+    height: 95%;
+}
+.rodape14{
+    color: aliceblue; 
+    
+}
+hr{
+    background-color: aliceblue;
+}
+h2{
+    color: #fff;
+}
+
+form{
+    text-align: center;
+    color: #4C0013;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

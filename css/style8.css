@@ -1,0 +1,299 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;700&family=Poppins:ital,wght@0,400;1,500&display=swap');
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #614f37;
+}
+
+.bodyLogin {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.header-container{
+    background-color: #614f37;
+}
+
+.bodyLogin .container {
+    background: #4C0013; 
+
+    width: 40%;
+    height: 100vh;
+
+    margin-left: 0;
+
+    text-align: center;
+}
+
+.bodyLogin .container h1 {
+    font-family: 'Poppins';
+    padding-top: 4rem;
+}
+
+.bodyLogin .container img {
+    padding: 3rem 0;
+}
+
+.bodyLogin .container2 {
+    background-color: #614f37;
+    width: 60%;
+    height: 100vh;
+    padding: 15rem 8rem;
+}
+.home{
+    color:#FFFFFF;
+    width: 100%;
+    text-align: center;
+}
+form{
+    text-align: center;
+    color: #4C0013;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.input-wrapper{
+    height: 1000px;
+}
+
+.in{
+    margin-right: 21% ;
+}
+.loginSenha{
+    color: #4C0013;
+    width: 100%;
+    text-align: center;
+    padding-top: 0%;
+
+    
+}
+
+.bodyLogin .container3 {
+    background-color: #4C0013;
+
+    width: 40%;
+    height: 100vh;
+
+    margin-left: 0;
+
+    text-align: center;
+}
+
+.bodyLogin .container3 h1 {
+    font-family: 'Poppins';
+    padding-top: 4rem;
+}
+
+.bodyLogin .container3 img {
+    padding: 4rem 0;
+}
+
+.bodyLogin .container4 {
+    background: #614f37; 
+    width: 60%;
+    height: 100vh;
+    padding: 15rem 8rem;
+}
+
+
+.h11{
+    color:#4C0013;
+    width: 100%;;
+    text-align: center;
+    padding-top: 0%;;
+    
+}
+
+
+.nav2{
+  font-family: Arial;
+  font-size: 25px;
+ 
+    padding: 0px;
+    
+}
+.ul2{
+    list-style: none;
+    
+   
+    
+    
+}
+
+.li2 .a2{
+   
+    float: left;
+    background-color: transparent;
+
+     width: 100px;
+     text-align: center;
+    
+    color: #000;
+    border-radius: 6px;
+
+    cursor: pointer;
+
+    margin-top: 32px;
+
+    grid-column: 2;
+    justify-self: end;
+
+    transition: 400ms;
+    
+    margin-left: 15%;
+    border: 2px solid #000;
+}
+
+
+.a2:hover{
+    background: #4C0013;
+    color: #fff;
+   
+  text-decoration: underline;
+
+    margin-left: 15%;
+   
+}
+.car {
+    width: 500px;
+    margin-left: 3%;
+}
+.senha{
+    margin-right: 0.8%;
+}
+
+
+
+
+.card{
+    margin-left: 3%;
+    float: left;
+    width: 29.5%;
+   
+    
+
+}
+h1{
+    color: #4C0013;
+    font-family: fantasy;
+}
+.h{
+    color: #1e2229;
+    padding-top: 20%;
+}
+
+.car{
+    height: 220px;
+    width: 95%;
+
+}
+
+.roda{
+    margin-right: 27%;
+    float: left;
+    
+
+}
+.roda1{
+    margin-right: 13%;
+   
+}
+.rodape{
+    color: aliceblue;
+}
+.rodape2{
+    color: aliceblue;
+}
+
+.final{
+    background-color: #4C0013;
+    width: 100%;
+    height: 95%;
+}
+.rodape14{
+    color: aliceblue; 
+    
+}
+hr{
+    background-color: aliceblue;
+}
+
+.erro{
+    width: 90%;
+    height: 69%;
+}
+.indexlogin{
+    width: 94%;
+    height: 100%;
+}
+span{
+    color:#ffff;
+}
+
+.btns{
+
+    
+    background-color: transparent;
+
+    width: 150px;
+    height: 40px;
+
+    border-radius: 6px;
+    border:1px solid #000;
+
+    cursor: pointer;
+    color: #000000;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-size: 14px;
+    font-weight: bold;
+
+
+
+    /* Mechendo na propriedade do display: grid  utilizado no form */
+    align-self: end;
+
+    transition: 400ms;
+
+}
+.btns:hover{
+    background: #4C0013;
+    color: #fff;
+    text-decoration: none;
+}
+
+.btns2{
+
+    
+    background-color: transparent;
+
+    width: 150px;
+    height: 40px;
+
+    border-radius: 6px;
+    border:1px solid #000;
+
+    cursor: pointer;
+    color: #000000;
+
+    
+
+    font-size: 14px;
+    font-weight: bold;
+
+
+
+    /* Mechendo na propriedade do display: grid  utilizado no form */
+    align-self: end;
+
+    transition: 400ms;
+
+}
+.btns2:hover{
+    background: #4C0013;
+    color: #fff;
+    text-decoration: none;
+}
